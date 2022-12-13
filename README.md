@@ -4,4 +4,5 @@ In these repository there are three notebooks:
 - Generate_sources.ipynb, which generates the gamma-ray images;
 - TuningHyperparameters_test.ipynb, which uses the generated dataset to tune the hyperparameters of the algorithm and evaluate its performance;
 - Example.ipynb, which performs an example of the algorithm for 3 images.
+
 You can also find the file 'data folder' (where the models are saved), 'models folder' (where the .xml code for generating image models are saved), 'images folder' (where the generated images are saved) and a 'coordinate.csv', which is a table where the coordinates (if an image has a single source) and classes for each type of image are saved.
